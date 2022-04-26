@@ -1,2 +1,2 @@
 # Criando-repositorio
-Colocando em prática o conhecimento obtido
+Colocando em prática o conhecimento alcançado
